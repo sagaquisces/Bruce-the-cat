@@ -10,3 +10,13 @@ h1 {
 ul {
   list-style-type: none;
 }
+
+.textwrap {
+  float: right;
+  margin: 10px;
+}
+
+.textwrapleft {
+  float: left;
+  margin: 10px;
+}
