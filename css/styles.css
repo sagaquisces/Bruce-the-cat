@@ -20,3 +20,8 @@ ul {
   float: left;
   margin: 10px;
 }
+
+.blue {
+  color: blue;
+  font-family: monospace;
+}
